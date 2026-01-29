@@ -1,0 +1,225 @@
+{
+    "en-AU": {
+        "styles": {
+            "bg": "#6F3BF3",
+            "lang-select-color": "#222829",
+            "bg-light": "#6F3BF3",
+            "welcome-bonus-bg": "#6F3BF3",
+            "top-games-hover-fg": "#000000",
+            "main-bg": "#9b79f7",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#6F3BF3",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#fb333d",
+            "yellow": "#23044A",
+            "yellow-button": "#FCFF4E",
+            "button-text": "#ffffff",
+            "main-button-text": "#000000",
+            "border-color": "#efefdc",
+            "casino-cards": "#b79df9",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#b79df9",
+            "faq-label": "#b79df9",
+            "bg-footer": "#6F3BF3",
+            "copyright": "#e7e7d5",
+            "starColor": "#FCFF4E",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Dabble",
+            "title": "Dabble — Online Casino Australia | Fast Withdrawals",
+            "description": "Play at Dabble Online Casino with lightning-fast withdrawals in 8 seconds. Enjoy live games, slots, and social betting features. Join thousands of players!\n",
+            "canonical": "dabble-online.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2276",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "dabble-online.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2277",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2278"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2279",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Dabble Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "Experience Australia's Most Social Online Casino",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2280",
+            "imageSizeModifier": 0,
+            "imageYModifier": -5,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2281",
+            "mobileImageSizeModifier": -6,
+            "mobileImageYModifier": 2,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casinos",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "Looking for an online casino that combines thrilling gameplay with social excitement? We offer licensed gaming with certified RNG, lightning-fast withdrawals, and a vibrant community of players. Here's what makes us different:\n",
+            "items": [
+                "Lightning-fast withdrawals averaging 8.74 seconds with verified accounts",
+                "Social betting features: copy successful players, follow top winners, join banter channels",
+                "4.8+ rating on 7,400+ reviews from satisfied Australian players",
+                "Real cash rewards every time other players copy your winning bets",
+                "Live dealer games with HD streams and interactive group chat features  text",
+                "Licensed by Northern Territory Racing Commission with fair play certification"
+            ],
+            "advantagesAfterText": "Join thousands of Aussie players enjoying social casino gaming with instant payouts. Our 24\/7 support team is always ready to assist you via live chat.\n",
+            "knowMore": "Know more",
+            "appTitle": "Dabble App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2282",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Dabble App",
+            "mobileGooglePlayImageTitle": "Dabble App",
+            "mobileIosImageTitle": "Dabble App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "About Dabble Casino",
+                "description1": "We've revolutionised the Australian online casino landscape by combining traditional gaming with innovative social features. Our platform brings together thousands of players who share strategies, celebrate wins, and build a vibrant community. You better believe it!\n",
+                "items": [
+                    "Launched innovative Copy Bet feature for casino games  text",
+                    "Achieved industry-leading withdrawal time of 8.74 seconds",
+                    "Introduced live dealer banter channels for real-time interaction",
+                    "Expanded game library to 1,500+ slots and live casino titles"
+                ],
+                "description2": "We operate under Northern Territory Racing Commission license with certified fairness standards. Our platform uses 256-bit SSL encryption to protect your financial data and personal information. All games undergo regular RNG testing by independent auditors.\nWe're committed to expanding our social gaming features and introducing new live dealer experiences. Our responsible gaming tools help you stay in control while enjoying the thrill. Join us and discover why we're Australia's most-loved online casino.\n",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2283",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": ""
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Casino Games & Betting Limits Guide",
+                "description": "<h2>Your Complete Guide to Dabble Casino Games<\/h2>\n\n<p>At Dabble Casino, we pride ourselves on offering an extensive collection of premium casino games tailored specifically for Australian players. Our platform features over 1,500 gaming titles spanning slots, live dealer tables, progressive jackpots, and specialty games. Every game in our collection has been carefully selected from industry-leading providers to ensure top-quality graphics, smooth gameplay, and fair outcomes certified by independent auditing agencies.<\/p>\n\n<p>What sets us apart from traditional online casinos is our revolutionary social gaming approach. We've transformed solitary gambling into a shared experience where you can follow successful players, copy winning strategies, and celebrate big wins together in our banter channels. Our community-driven features have attracted thousands of Australian players who enjoy the excitement of casino gaming enhanced by real-time social interaction.<\/p>\n\n<h3>Live Dealer Casino Experience<\/h3>\n\n<p>We offer an immersive live dealer casino section that brings the authentic atmosphere of land-based casinos directly to your device. Our live gaming studios feature professional dealers streaming in high definition 24\/7, ensuring you can enjoy real-time gameplay whenever the mood strikes. Unlike static digital games, our live dealer offerings provide genuine human interaction, real card shuffles, and actual roulette wheel spins that you can witness through multiple camera angles.<\/p>\n\n<p>Our live casino portfolio includes all the classic table games you love, enhanced with innovative variations and betting options. We've partnered with Evolution Gaming and Ezugi to deliver the highest quality live dealer experiences available in the Australian market. Each table accommodates multiple players simultaneously, and our unique banter channel integration allows you to chat with fellow players and dealers, creating a truly social casino atmosphere that mimics the excitement of being in a physical casino with friends.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Live roulette tables:<\/strong> Including European, American, French, Lightning, and speed variants with betting limits ranging from $1 to $10,000 per spin to suit all budgets and playing styles.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Blackjack games:<\/strong> Featuring classic rules, unlimited seat options, and special side bets like Perfect Pairs and 21+3 with payouts up to 100:1 on lucky hands.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Baccarat tables:<\/strong> Offering standard, speed, and VIP versions with squeeze feature for enhanced suspense, plus dragon bonus side bets with massive multipliers.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Live poker variations:<\/strong> Including Three Card Poker, Caribbean Stud, Texas Hold'em Bonus, and Casino Hold'em with progressive jackpots reaching six figures.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Game show experiences:<\/strong> Like Crazy Time, Monopoly Live, Dream Catcher, and Mega Ball combining entertainment elements with gambling for interactive fun.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Exclusive VIP tables:<\/strong> With higher betting limits, private dealing, and personalized service for our high-roller players seeking premium gaming experiences.\n  <\/li>\n<\/ul>\n\n<h3>Slot Games Collection<\/h3>\n\n<p>Our slots library features over 1,000 titles from renowned providers including NetEnt, Microgaming, Pragmatic Play, Play'n GO, and Yggdrasil. We update our collection monthly with the latest releases, ensuring you always have access to trending games with cutting-edge graphics and innovative bonus features. From classic 3-reel fruit machines to modern 5-reel video slots with multiple paylines, we cater to every preference and playing style.<\/p>\n\n<p>Our slot games offer diverse themes ranging from ancient civilizations and mythology to movies, music, and pop culture. Many titles feature progressive jackpots that grow with every bet placed across our network, with top prizes frequently exceeding $1 million AUD. We've organized our slots into convenient categories including Megaways, cluster pays, cascading reels, and high volatility options, making it easy to find games that match your preferred gameplay mechanics and risk tolerance.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Progressive jackpot slots:<\/strong> Like Mega Moolah, Divine Fortune, and Hall of Gods offering life-changing prize pools that can turn a small bet into massive winnings.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Megaways mechanics:<\/strong> Featuring up to 117,649 ways to win with cascading symbols and unlimited multipliers in titles like Bonanza and Extra Chilli.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>High RTP selections:<\/strong> Curated collection of slots with return-to-player percentages above 96.5% for better long-term value and winning potential.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Branded titles:<\/strong> Including games based on popular franchises like Game of Thrones, Jurassic Park, and Vikings with authentic audio and video content.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Buy bonus features:<\/strong> Allowing you to skip base game play and jump directly into exciting free spin rounds for instant action and big win potential.\n  <\/li>\n<\/ul>\n\n<h3>Table Games & Casino Classics<\/h3>\n\n<p>Beyond live dealer options, we offer digital versions of traditional casino table games with intuitive interfaces and adjustable bet sizes. Our digital table games use certified random number generators to ensure completely fair outcomes on every hand, spin, or roll. These games are perfect for practicing strategies, learning rules, or enjoying faster-paced gameplay without waiting for other players.<\/p>\n\n<p>We've included multiple variants of each classic game type, allowing you to explore different rule sets and find versions that optimize your winning chances. Our digital table games support both low-stakes recreational play and high-roller sessions, with customizable table settings and game speed controls. Whether you're refining your blackjack basic strategy or testing new roulette betting systems, our diverse table game collection provides the perfect environment.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #d4ff00;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Game<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Min<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Max<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #4b22b6;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$10,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #3a1a8c;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Blackjack<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$5,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #4b22b6;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Baccarat<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$5<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$15,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #3a1a8c;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Poker<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$2,500<\/td>\n    <\/tr>\n    <tr style=\"background-color: #4b22b6;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Slots<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$500<\/td>\n    <\/tr>\n    <tr style=\"background-color: #3a1a8c;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Jackpots<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$0.25<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$100<\/td>\n    <\/tr>\n    <tr style=\"background-color: #4b22b6;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Live Games<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$25,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #3a1a8c;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>VIP Tables<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$100<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$50,000<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Social Gaming Features<\/h3>\n\n<p>We've pioneered social casino gaming in Australia with our innovative Copy Bet feature that allows you to follow and replicate the strategies of successful players in real-time. When you spot a player on a winning streak, simply hit the copy button to place the same bets automatically. This revolutionary feature is perfect for newcomers learning the ropes or experienced players who want to diversify their betting approaches by leveraging the collective wisdom of our community.<\/p>\n\n<p>Our platform rewards social engagement with real cash bonuses. Every time another player copies your bet, you earn a commission regardless of the outcome. This creates a mutually beneficial ecosystem where skilled players are incentivized to share their strategies, and followers gain access to proven betting approaches. We've built extensive player profiles showing win rates, favorite games, and historical performance, helping you make informed decisions about which players to follow.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Follow top players:<\/strong> Track winning streaks and betting patterns of successful casino players including verified professional gamblers and sports personalities.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Banter channels:<\/strong> Join game-specific chat rooms to discuss strategies, celebrate wins, and interact with dealers and fellow players in real-time conversations.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Group chats:<\/strong> Create private gambling circles with friends to share betting tips, coordinate group play sessions, and track collective performance.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Leaderboards:<\/strong> Compete in daily, weekly, and monthly rankings based on winnings, with exclusive prizes and VIP perks for top-performing players.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Live streams:<\/strong> Watch weekly broadcasts featuring professional players, game tutorials, strategy sessions, and exclusive promotions with celebrity guests.\n  <\/li>\n<\/ul>\n\n<h3>Mobile Gaming Experience<\/h3>\n\n<p>Our mobile-optimized platform delivers seamless casino gaming on iOS and Android devices without requiring any downloads. We've engineered our HTML5-based games to automatically adapt to your screen size and device capabilities, ensuring smooth performance whether you're playing on the latest iPhone or an older Android tablet. Our mobile interface maintains all desktop features including Copy Bet, banter channels, and instant withdrawals, giving you complete casino access from anywhere in Australia.<\/p>\n\n<p>We've achieved an impressive 4.8+ rating across 7,400+ App Store and Google Play reviews, with players consistently praising our intuitive navigation, fast loading times, and stable connections even on 4G networks. Our mobile casino supports both portrait and landscape orientations, with touch-optimized controls that make spinning slots, placing bets, and navigating between games effortless. Battery efficiency optimizations ensure extended gaming sessions without draining your device, while smart data compression minimizes mobile data usage for players on limited plans.<\/p>\n\n<h3>Payment Methods & Withdrawal Speed<\/h3>\n\n<p>We've revolutionized online casino banking with industry-leading withdrawal speeds averaging just 8.74 seconds for verified accounts. Unlike traditional casinos that process payouts over days, we prioritize getting your winnings to you instantly through automated systems that eliminate manual approval delays. Our fast withdrawal capability applies to all payment methods including bank transfers, e-wallets, and card payments, ensuring you can access your funds immediately regardless of your preferred banking option.<\/p>\n\n<p>We support comprehensive payment options tailored for Australian players including POLi, BPAY, major credit and debit cards, PayID, and popular e-wallets like PayPal and Skrill. All transactions are protected by 256-bit SSL encryption and comply with strict Australian financial regulations. We don't charge processing fees on deposits or withdrawals, and we've set reasonable minimum deposit limits starting at just $10 to make our casino accessible to players of all budgets. Your financial security and convenience are our absolute priorities.<\/p>\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Bonuses, Promotions & Responsible Gaming",
+                "description": "<h2>Welcome Bonuses and Exclusive Promotions<\/h2>\n\n<p>We welcome new Australian players with generous bonus packages designed to maximize your gaming experience from the very first deposit. Our welcome offer provides substantial bonus funds and free spins that give you extended playtime to explore our extensive game collection. Unlike many casinos with complex bonus terms, we maintain transparent wagering requirements and clearly communicate all conditions upfront, ensuring you know exactly what to expect when claiming promotional offers.<\/p>\n\n<p>Our bonus structure is carefully crafted to provide genuine value rather than misleading promises. We offer competitive wagering requirements that are actually achievable, typically ranging between 30x to 40x the bonus amount. All our promotions include detailed terms and conditions displayed prominently before you opt-in, covering eligible games, maximum bet limits, expiration periods, and withdrawal restrictions. This honest approach has earned us trust among Australian players who appreciate straightforward promotions without hidden catches.<\/p>\n\n<h3>Types of Bonuses Available<\/h3>\n\n<p>We maintain an ongoing calendar of promotions that cater to different playing styles and game preferences. Our bonus program includes traditional matched deposits, no-wagering free spins, cashback offers that refund a percentage of losses, and exclusive tournaments with prize pools. We regularly update our promotional lineup based on player feedback and seasonal events, ensuring there's always something fresh and exciting available for both new and loyal members.<\/p>\n\n<p>Our loyalty program rewards consistent play with tiered benefits that improve as you advance through levels. Higher tiers unlock faster withdrawals, dedicated account managers, increased betting limits, exclusive bonus offers, and invitations to special events. Unlike programs that require unrealistic wagering volumes, our tier progression is designed to be achievable for regular recreational players, not just high-rollers. Every real money bet contributes to your loyalty points, whether you're spinning slots or playing live dealer games.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Matched deposit bonuses:<\/strong> Boost your bankroll with percentage matches on deposits, typically ranging from 50% to 200% with maximum bonus caps clearly stated upfront.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Free spins packages:<\/strong> Receive complimentary spins on popular slot games with no deposit required, allowing you to try new titles risk-free and keep your winnings.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Cashback promotions:<\/strong> Get back a percentage of net losses over specified periods, providing a safety net during unlucky streaks and extending your playing sessions.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Reload bonuses:<\/strong> Enjoy regular bonuses on subsequent deposits throughout the week, rewarding loyal players who return frequently to continue gaming.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Tournament entries:<\/strong> Compete in slot and table game competitions with guaranteed prize pools, leaderboard rankings, and opportunities to win without additional wagering.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Social rewards:<\/strong> Earn real cash commissions every time other players copy your bets, creating passive income streams from your successful gaming strategies.\n  <\/li>\n<\/ul>\n\n<h3>VIP Program Benefits<\/h3>\n\n<p>Our multi-tiered VIP program recognizes and rewards our most dedicated players with premium perks that enhance every aspect of your gaming experience. As you progress through Bronze, Silver, Gold, Platinum, and Diamond tiers, you'll unlock increasingly valuable benefits including higher withdrawal limits, exclusive game access, personalized bonus offers, and priority customer support. We calculate tier status based on monthly wagering activity, and we provide clear visibility into your progress and requirements for reaching the next level.<\/p>\n\n<p>Diamond tier members enjoy our most prestigious benefits including dedicated account management, custom-tailored promotions, invitations to exclusive events and hospitality experiences, and negotiable betting limits for high-stakes play. We also offer birthday bonuses, anniversary rewards, and personalized gift packages that acknowledge your loyalty beyond standard gaming perks. Our VIP team proactively contacts higher-tier members to discuss preferences and create customized experiences that match individual playing styles and interests.<\/p>\n\n<h3>Responsible Gaming Commitment<\/h3>\n\n<p>We're deeply committed to promoting responsible gambling practices and providing comprehensive tools to help you maintain control over your gaming activities. Our platform includes customizable deposit limits, loss limits, session time limits, and self-exclusion options that empower you to set boundaries aligned with your personal budget and time availability. These responsible gaming controls are easily accessible from your account settings and take effect immediately upon activation.<\/p>\n\n<p>We've partnered with leading responsible gambling organizations including Gambling Help Online and Lifeline Australia to provide support resources for players who may be experiencing gambling-related difficulties. Our staff undergoes regular training to recognize problem gambling indicators and offer appropriate assistance or referrals. We believe that sustainable, enjoyable gambling requires awareness and self-management, and we're here to support your wellbeing both inside and outside our platform.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Deposit limits:<\/strong> Set daily, weekly, or monthly maximum deposit amounts to ensure your gambling expenditure stays within affordable levels and doesn't impact essential expenses.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Loss limits:<\/strong> Establish thresholds for net losses over specific timeframes, automatically preventing further play once limits are reached to protect your bankroll.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Session reminders:<\/strong> Receive notifications about time spent gambling during each session, helping you maintain awareness and avoid losing track of playing duration.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Reality checks:<\/strong> Get periodic pop-up messages displaying current session statistics including time played, amount wagered, and net position to support informed decision-making.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Self-exclusion:<\/strong> Temporarily or permanently close your account with cooling-off periods ranging from 24 hours to permanent bans, with strict protocols preventing premature reactivation.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Support resources:<\/strong> Access direct links to professional counseling services, educational materials about gambling risks, and self-assessment tools to evaluate your relationship with gambling.\n  <\/li>\n<\/ul>\n\n<h3>Security and Fair Play<\/h3>\n\n<p>We operate under strict licensing from the Northern Territory Racing Commission with full compliance to Australian gambling regulations and consumer protection laws. Our platform undergoes regular audits by independent testing agencies that verify the randomness and fairness of all game outcomes. We publish our RTP (Return to Player) percentages transparently and maintain certification documents accessible through our website, demonstrating our commitment to honest gaming operations.<\/p>\n\n<p>Your personal and financial information is protected by military-grade 256-bit SSL encryption that prevents unauthorized access during transmission and storage. We adhere to strict data privacy policies compliant with Australian Privacy Principles, never selling or sharing your information with third parties for marketing purposes. Our secure servers are housed in certified data centers with redundant backups, ensuring your account details and transaction history remain protected against technical failures or cyber threats.<\/p>\n\n<h3>Customer Support Excellence<\/h3>\n\n<p>Our Australian-based support team operates 24 hours a day, 7 days a week to assist with any questions, technical issues, or account concerns you may encounter. We offer multiple contact channels including live chat with instant response times, email support with replies typically within 2 hours, and a comprehensive FAQ section addressing common queries. Our support staff are extensively trained on all aspects of our casino platform and empowered to resolve issues efficiently without bureaucratic delays.<\/p>\n\n<p>We pride ourselves on friendly, professional service that treats every player with respect regardless of account size or issue complexity. Our live chat feature is directly integrated into the gaming interface, allowing you to seek assistance without interrupting your play. We maintain detailed records of all support interactions to ensure continuity when following up on unresolved matters, and we proactively contact players when we identify potential issues with their accounts or transactions.<\/p>\n\n<h3>Game Providers and Software Quality<\/h3>\n\n<p>We've partnered exclusively with tier-one gaming providers who maintain stellar reputations for quality, innovation, and fair play certification. Our provider roster includes industry leaders like Evolution Gaming for live dealer content, NetEnt and Microgaming for premium slots, and Pragmatic Play for diverse game categories. These partnerships ensure you're accessing the same high-quality games featured at the world's most respected online casinos, optimized for Australian players with local currency support and region-appropriate content.<\/p>\n\n<p>All games on our platform are developed using HTML5 technology that delivers consistent performance across devices without requiring software downloads or plugin installations. We regularly rotate our game selection to feature the latest releases while maintaining popular classics that players love. Our gaming library is searchable by provider, game type, theme, and features, with helpful filters that let you find exactly what you're looking for quickly. We also highlight games with the highest RTP percentages and current progressive jackpot totals to help you make informed choices.<\/p>\n\n<h3>Community and Social Engagement<\/h3>\n\n<p>Beyond standard casino gaming, we've built a thriving community where Australian players connect, share experiences, and celebrate wins together. Our banter channels host thousands of daily conversations about game strategies, big wins, and general gambling topics in a moderated environment that maintains respectful discourse. We've created a culture where experienced players mentor newcomers, successful strategies are openly shared, and everyone genuinely wants to see fellow community members succeed.<\/p>\n\n<p>We regularly host live streaming events featuring well-known Australian personalities, professional gamblers, and sports figures who play games, share insights, and interact directly with viewers. These streams combine entertainment with education, offering strategy tips, game reviews, and exclusive promotional codes for participants. Our community-driven approach has transformed online gambling from an isolated activity into a social experience that rivals the camaraderie found in physical casinos, all while maintaining the convenience and comfort of playing from home.<\/p>\n\n<p>Join thousands of satisfied Australian players who've made Dabble Casino their preferred gaming destination. We combine cutting-edge technology, social innovation, lightning-fast payouts, and genuine commitment to player satisfaction into one exceptional platform. Whether you're chasing progressive jackpots, testing your skills at live dealer tables, or simply enjoying casual spins on your favorite slots, we provide the perfect environment for thrilling, responsible casino entertainment. You better believe it – this is the future of online gambling in Australia!<\/p>\n"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "How fast are withdrawals at Dabble Casino?",
+                    "answer": "FAQ Answer 1We offer industry-leading withdrawal speeds averaging just 8.74 seconds for verified accounts. Once you've completed identity verification, your winnings are processed automatically without manual approval delays. This applies to all payment methods including bank transfers, e-wallets, and card payments. You'll receive instant notifications when withdrawals are completed.\n"
+                },
+                {
+                    "title": "What is the Copy Bet feature and how does it work?",
+                    "answer": "Copy Bet allows you to automatically replicate the bets of successful players in real-time. Simply browse player profiles, find someone with a winning streak, and click the copy button. Your account will place the same bets automatically. You earn real cash commissions whenever other players copy your bets, creating passive income from your gaming success.\n"
+                },
+                {
+                    "title": "What payment methods do you accept for deposits?",
+                    "answer": "We accept comprehensive payment options including POLi, BPAY, Visa, Mastercard, PayID, PayPal, Skrill, and direct bank transfers. All methods support Australian dollars with no currency conversion fees. Minimum deposits start at $10, and all transactions are protected by 256-bit SSL encryption. We don't charge processing fees on deposits or withdrawals.\n"
+                },
+                {
+                    "title": "Is Dabble Casino licensed and regulated?",
+                    "answer": "Yes, we operate under full licensing from the Northern Territory Racing Commission with strict compliance to Australian gambling regulations. All our games undergo regular fairness testing by independent auditors to ensure random outcomes. We use certified RNG technology and publish our Return to Player percentages transparently. Your safety and fair play are guaranteed.\n"
+                },
+                {
+                    "title": "Can I play on my mobile phone or tablet?",
+                    "answer": "Absolutely! Our platform is fully optimized for iOS and Android devices without requiring downloads. All games, features, and banking options work seamlessly on mobile browsers. We've achieved a 4.8+ rating across 7,400+ reviews for our mobile experience. You can access Copy Bet, banter channels, and instant withdrawals from anywhere in Australia.\n"
+                },
+                {
+                    "title": "What responsible gaming tools are available?",
+                    "answer": "We provide comprehensive responsible gaming controls including deposit limits, loss limits, session time limits, reality check reminders, and self-exclusion options. All tools are accessible from your account settings and take effect immediately. We've partnered with Gambling Help Online and Lifeline Australia to provide support resources for players who need assistance.\n"
+                },
+                {
+                    "title": "How do I claim the welcome bonus?",
+                    "answer": "Create your account, complete the verification process, and make your first deposit of at least $10. Your welcome bonus will be automatically credited within minutes. Check the promotions page for current offer details including match percentages and wagering requirements. Contact our 24\/7 live chat support if you need assistance with bonus activation.\n"
+                },
+                {
+                    "title": "What are the minimum and maximum bet limits?",
+                    "answer": "Bet limits vary by game type. Slots typically range from $0.10 to $500 per spin. Table games like roulette and blackjack start at $1 with maximums up to $10,000. Live dealer games offer limits from $1 to $25,000, with VIP tables supporting bets up to $50,000. Check individual game screens for specific limit information.\n"
+                },
+                {
+                    "title": "Is customer support available 24\/7?",
+                    "answer": "Yes, our Australian-based support team operates around the clock every day of the year. We offer instant live chat, email support with replies typically within 2 hours, and a comprehensive FAQ section. Our staff are extensively trained and empowered to resolve issues efficiently. You can contact us anytime directly through the gaming interface.\n"
+                },
+                {
+                    "title": "Can I follow other players and join chat channels?",
+                    "answer": "Yes! Our social features let you follow successful players, view their betting history and win rates, and copy their strategies automatically. You can join public banter channels for game-specific discussions or create private group chats with friends. We host weekly live streams with professional players and celebrities. Our community approach makes gambling more social and entertaining.\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2284",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Dabble"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-AU",
+            "name": "Английский",
+            "isDefault": true
+        }
+    ]
+}
